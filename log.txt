@@ -16,3 +16,4 @@
 0830. 🎨 style: apply consistent indentation
 0238. 🎨 style: apply consistent indentation
 0342. 🚀 perf: cache repeated calculations
+0888. 🚀 perf: lazy-load components
