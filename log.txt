@@ -30,3 +30,4 @@
 0135. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
 0944. ✨ feat: add user authentication
+0085. ✨ feat: support email verification
