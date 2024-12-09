@@ -32,3 +32,4 @@
 0944. ✨ feat: add user authentication
 0085. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
+0516. ✅ test: add unit test for quiz service
