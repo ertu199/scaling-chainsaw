@@ -34,3 +34,4 @@
 0150. 🎨 style: remove trailing whitespace
 0516. ✅ test: add unit test for quiz service
 0848. 📚 docs: update README with setup steps
+0021. ✨ feat: support email verification
