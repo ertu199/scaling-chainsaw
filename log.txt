@@ -38,3 +38,4 @@
 0964. ♻️ chore: clean up unused files
 0466. 🚀 perf: optimize database query for quiz results
 0364. 🐛 fix: resolve issue with date parsing
+0167. 🚀 perf: reduce image load time
