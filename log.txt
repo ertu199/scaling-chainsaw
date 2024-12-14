@@ -47,3 +47,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0114. ♻️ chore: update .gitignore
 0348. ✅ test: test user registration edge cases
+0593. 🐛 fix: correct typo in registration form
