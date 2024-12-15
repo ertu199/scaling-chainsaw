@@ -51,3 +51,4 @@
 0930. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
 0810. 🔧 refactor: refactor quiz grading logic
+0538. 🐛 fix: fix broken CSS in mobile view
