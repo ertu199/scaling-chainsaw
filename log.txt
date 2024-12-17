@@ -54,3 +54,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0434. 📚 docs: document token refresh logic
 0586. 🎨 style: remove trailing whitespace
+0186. ✅ test: test user registration edge cases
