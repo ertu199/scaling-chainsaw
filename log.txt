@@ -55,3 +55,4 @@
 0434. 📚 docs: document token refresh logic
 0586. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
+0966. 📚 docs: improve code comments in utils
