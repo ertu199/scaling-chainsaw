@@ -57,3 +57,4 @@
 0186. ✅ test: test user registration edge cases
 0966. 📚 docs: improve code comments in utils
 0060. ♻️ chore: clean up unused files
+0942. ✅ test: increase coverage on auth module
