@@ -58,3 +58,4 @@
 0966. 📚 docs: improve code comments in utils
 0060. ♻️ chore: clean up unused files
 0942. ✅ test: increase coverage on auth module
+0707. 🎨 style: apply consistent indentation
