@@ -64,3 +64,4 @@
 0922. 📚 docs: write FAQ section
 0718. 🐛 fix: resolve issue with date parsing
 0771. 🚀 perf: cache repeated calculations
+1000. ✅ test: increase coverage on auth module
