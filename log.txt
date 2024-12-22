@@ -65,3 +65,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0771. 🚀 perf: cache repeated calculations
 1000. ✅ test: increase coverage on auth module
+0873. 🚀 perf: cache repeated calculations
