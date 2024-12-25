@@ -75,3 +75,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0699. 🎨 style: standardize quote style
 0737. 🐛 fix: handle 500 error in quiz API
+0599. ✅ test: test user registration edge cases
