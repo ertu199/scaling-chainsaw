@@ -78,3 +78,4 @@
 0599. ✅ test: test user registration edge cases
 0416. 🎨 style: rename variables for clarity
 0901. ✨ feat: add user authentication
+0128. ♻️ chore: rename env.example
