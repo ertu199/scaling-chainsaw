@@ -85,3 +85,4 @@
 0678. ✨ feat: add user authentication
 0946. ✅ test: add unit test for quiz service
 0691. 🎨 style: rename variables for clarity
+0832. 🔧 refactor: remove redundant code blocks
