@@ -98,3 +98,4 @@
 0250. 📚 docs: update README with setup steps
 0833. ✨ feat: add user authentication
 0475. 🔧 refactor: clean up auth middleware
+0525. ✅ test: mock database connection in test suite
