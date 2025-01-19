@@ -118,3 +118,4 @@
 0291. 📚 docs: write FAQ section
 0798. 🚀 perf: reduce image load time
 0099. 🚀 perf: reduce image load time
+0991. ♻️ chore: clean up unused files
