@@ -124,3 +124,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0702. ✨ feat: add user authentication
 0686. 🎨 style: standardize quote style
+0646. ✅ test: test user registration edge cases
