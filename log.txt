@@ -132,3 +132,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0392. 🎨 style: remove trailing whitespace
 0310. 🔧 refactor: refactor quiz grading logic
+0283. ♻️ chore: add GitHub actions badge
