@@ -134,3 +134,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0283. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
+0948. 🐛 fix: fix broken CSS in mobile view
