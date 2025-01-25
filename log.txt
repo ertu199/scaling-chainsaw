@@ -137,3 +137,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0206. 🐛 fix: handle 500 error in quiz API
 0110. 🐛 fix: prevent crash on empty input
+0597. 🚀 perf: cache repeated calculations
