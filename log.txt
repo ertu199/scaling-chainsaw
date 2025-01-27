@@ -142,3 +142,4 @@
 0986. 📚 docs: document token refresh logic
 0936. 🔧 refactor: organize models into subfolders
 0076. 🎨 style: reformat files with black
+0589. 🐛 fix: fix broken CSS in mobile view
