@@ -145,3 +145,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0467. ✅ test: add integration test for /submit endpoint
 0954. 🚀 perf: cache repeated calculations
+0472. 🐛 fix: fix null pointer exception on login
