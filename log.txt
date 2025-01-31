@@ -151,3 +151,4 @@
 0887. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
 0703. 🔧 refactor: clean up auth middleware
+0030. 🐛 fix: fix null pointer exception on login
