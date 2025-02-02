@@ -158,3 +158,4 @@
 0242. ♻️ chore: clean up unused files
 0708. ✅ test: add integration test for /submit endpoint
 0940. 📚 docs: document token refresh logic
+0980. 🎨 style: reformat files with black
