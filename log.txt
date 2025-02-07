@@ -168,3 +168,4 @@
 0279. ✨ feat: support email verification
 0440. 📚 docs: update README with setup steps
 0688. 🚀 perf: reduce image load time
+0406. ✨ feat: add export to CSV option
