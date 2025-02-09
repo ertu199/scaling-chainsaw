@@ -174,3 +174,4 @@
 0868. ✅ test: add unit test for quiz service
 0720. ✨ feat: add export to CSV option
 0804. ♻️ chore: add GitHub actions badge
+0299. 🐛 fix: resolve issue with date parsing
