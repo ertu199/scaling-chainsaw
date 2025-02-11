@@ -181,3 +181,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0454. ♻️ chore: bump dependencies
 0068. 🐛 fix: fix null pointer exception on login
+0950. 🎨 style: reformat files with black
