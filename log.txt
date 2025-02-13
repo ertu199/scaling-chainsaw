@@ -184,3 +184,4 @@
 0950. 🎨 style: reformat files with black
 0382. 📚 docs: improve code comments in utils
 0632. 🎨 style: remove trailing whitespace
+0581. ✅ test: add integration test for /submit endpoint
