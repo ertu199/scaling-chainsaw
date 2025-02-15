@@ -189,3 +189,4 @@
 0449. ✅ test: add unit test for quiz service
 0081. 🐛 fix: fix null pointer exception on login
 0549. ✨ feat: enable dark mode toggle
+0923. ✨ feat: support email verification
