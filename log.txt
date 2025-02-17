@@ -193,3 +193,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0855. 🎨 style: reformat files with black
 0152. ✨ feat: add user authentication
+0231. 🔧 refactor: clean up auth middleware
