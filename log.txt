@@ -200,3 +200,4 @@
 0347. ♻️ chore: update .gitignore
 0704. 🚀 perf: cache repeated calculations
 0358. 🚀 perf: reduce image load time
+0791. 🔧 refactor: clean up auth middleware
