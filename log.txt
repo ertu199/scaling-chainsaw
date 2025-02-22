@@ -205,3 +205,4 @@
 0906. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
 0625. 🐛 fix: handle 500 error in quiz API
+0262. 🎨 style: remove trailing whitespace
