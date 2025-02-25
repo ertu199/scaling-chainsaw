@@ -212,3 +212,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0672. 🐛 fix: fix broken CSS in mobile view
 0670. ✨ feat: add export to CSV option
+0752. ✅ test: add integration test for /submit endpoint
