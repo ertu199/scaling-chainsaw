@@ -225,3 +225,4 @@
 0801. ✨ feat: enable dark mode toggle
 0191. 🔧 refactor: refactor quiz grading logic
 0815. 🔧 refactor: split large controller into smaller functions
+0375. 🐛 fix: handle 500 error in quiz API
