@@ -245,3 +245,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0687. 🎨 style: remove trailing whitespace
 0508. ✅ test: add unit test for quiz service
+0849. 🐛 fix: correct typo in registration form
