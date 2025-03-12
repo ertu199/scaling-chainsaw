@@ -248,3 +248,4 @@
 0849. 🐛 fix: correct typo in registration form
 0856. 🐛 fix: fix null pointer exception on login
 0634. 🎨 style: reformat files with black
+0460. 📚 docs: write FAQ section
