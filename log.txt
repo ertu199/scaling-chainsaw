@@ -254,3 +254,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0864. 🐛 fix: correct typo in registration form
 0626. 🎨 style: standardize quote style
+0553. 🐛 fix: correct typo in registration form
