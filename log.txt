@@ -265,3 +265,4 @@
 0402. 🎨 style: reformat files with black
 0501. ✨ feat: add export to CSV option
 0315. ✅ test: add integration test for /submit endpoint
+0158. 📚 docs: clarify environment setup
