@@ -277,3 +277,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0956. 📚 docs: clarify environment setup
 0125. ✅ test: add integration test for /submit endpoint
+0072. 🚀 perf: optimize database query for quiz results
