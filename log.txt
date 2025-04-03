@@ -281,3 +281,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0852. ✨ feat: enable dark mode toggle
 0644. 🎨 style: apply consistent indentation
+0320. 📚 docs: update README with setup steps
