@@ -287,3 +287,4 @@
 0870. ♻️ chore: clean up unused files
 0378. 🐛 fix: prevent crash on empty input
 0861. ♻️ chore: clean up unused files
+0039. ✅ test: add integration test for /submit endpoint
