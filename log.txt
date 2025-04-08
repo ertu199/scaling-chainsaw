@@ -289,3 +289,4 @@
 0861. ♻️ chore: clean up unused files
 0039. ✅ test: add integration test for /submit endpoint
 0179. 🔧 refactor: split large controller into smaller functions
+0747. 🔧 refactor: clean up auth middleware
