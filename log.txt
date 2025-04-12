@@ -294,3 +294,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0394. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
+0235. 🐛 fix: fix null pointer exception on login
