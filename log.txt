@@ -303,3 +303,4 @@
 0187. ✨ feat: support email verification
 0481. ✅ test: add unit test for quiz service
 0412. ✅ test: increase coverage on auth module
+0828. ♻️ chore: add GitHub actions badge
