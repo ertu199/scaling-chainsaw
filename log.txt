@@ -309,3 +309,4 @@
 0895. ✨ feat: support email verification
 0290. ✅ test: test user registration edge cases
 0867. 🔧 refactor: refactor quiz grading logic
+0495. 🔧 refactor: remove redundant code blocks
