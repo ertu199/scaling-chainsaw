@@ -322,3 +322,4 @@
 0482. ✨ feat: add export to CSV option
 0089. 🔧 refactor: remove redundant code blocks
 0782. 📚 docs: improve code comments in utils
+0612. ✅ test: test user registration edge cases
