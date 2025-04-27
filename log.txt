@@ -324,3 +324,4 @@
 0782. 📚 docs: improve code comments in utils
 0612. ✅ test: test user registration edge cases
 0045. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
