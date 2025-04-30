@@ -330,3 +330,4 @@
 0334. 🚀 perf: cache repeated calculations
 0679. ♻️ chore: bump dependencies
 0711. 🐛 fix: fix broken CSS in mobile view
+0953. 🎨 style: remove trailing whitespace
