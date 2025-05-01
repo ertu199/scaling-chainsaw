@@ -333,3 +333,4 @@
 0953. 🎨 style: remove trailing whitespace
 0331. 🐛 fix: fix broken CSS in mobile view
 0431. 🎨 style: reformat files with black
+0879. 🎨 style: standardize quote style
