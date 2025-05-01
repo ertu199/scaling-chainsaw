@@ -331,3 +331,4 @@
 0679. ♻️ chore: bump dependencies
 0711. 🐛 fix: fix broken CSS in mobile view
 0953. 🎨 style: remove trailing whitespace
+0331. 🐛 fix: fix broken CSS in mobile view
