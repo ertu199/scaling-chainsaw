@@ -335,3 +335,4 @@
 0431. 🎨 style: reformat files with black
 0879. 🎨 style: standardize quote style
 0086. 🐛 fix: correct typo in registration form
+0464. 🎨 style: remove trailing whitespace
