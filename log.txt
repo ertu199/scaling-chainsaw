@@ -337,3 +337,4 @@
 0086. 🐛 fix: correct typo in registration form
 0464. 🎨 style: remove trailing whitespace
 0294. 🐛 fix: prevent crash on empty input
+0766. 🎨 style: reformat files with black
