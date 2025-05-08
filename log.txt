@@ -346,3 +346,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0904. ✨ feat: implement quiz timer feature
 0935. 📚 docs: update README with setup steps
+0387. ✨ feat: enable dark mode toggle
