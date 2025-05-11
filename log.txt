@@ -348,3 +348,4 @@
 0935. 📚 docs: update README with setup steps
 0387. ✨ feat: enable dark mode toggle
 0196. ♻️ chore: bump dependencies
+0340. 🚀 perf: optimize database query for quiz results
