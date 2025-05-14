@@ -353,3 +353,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0790. 📚 docs: write FAQ section
 0825. 🔧 refactor: split large controller into smaller functions
+0170. ✅ test: increase coverage on auth module
