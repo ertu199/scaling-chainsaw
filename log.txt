@@ -357,3 +357,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0741. 🎨 style: apply consistent indentation
 0619. ✨ feat: create admin dashboard
+0965. 🎨 style: reformat files with black
