@@ -358,3 +358,4 @@
 0741. 🎨 style: apply consistent indentation
 0619. ✨ feat: create admin dashboard
 0965. 🎨 style: reformat files with black
+0536. ✨ feat: add user authentication
