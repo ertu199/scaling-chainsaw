@@ -360,3 +360,4 @@
 0965. 🎨 style: reformat files with black
 0536. ✨ feat: add user authentication
 0393. 🚀 perf: lazy-load components
+0764. ✨ feat: add user authentication
