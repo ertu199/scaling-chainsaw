@@ -361,3 +361,4 @@
 0536. ✨ feat: add user authentication
 0393. 🚀 perf: lazy-load components
 0764. ✨ feat: add user authentication
+0249. ✅ test: increase coverage on auth module
