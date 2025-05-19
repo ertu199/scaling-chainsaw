@@ -363,3 +363,4 @@
 0764. ✨ feat: add user authentication
 0249. ✅ test: increase coverage on auth module
 0669. ✨ feat: enable dark mode toggle
+0422. 🔧 refactor: organize models into subfolders
