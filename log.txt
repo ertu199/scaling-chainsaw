@@ -373,3 +373,4 @@
 0324. 📚 docs: document token refresh logic
 0805. ♻️ chore: add GitHub actions badge
 0205. 📚 docs: update README with setup steps
+0834. ✅ test: increase coverage on auth module
