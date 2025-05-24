@@ -380,3 +380,4 @@
 0126. 🎨 style: rename variables for clarity
 0121. ✨ feat: support email verification
 0859. ✨ feat: create admin dashboard
+0997. ✅ test: increase coverage on auth module
