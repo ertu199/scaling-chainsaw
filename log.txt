@@ -397,3 +397,4 @@
 0730. ✅ test: test user registration edge cases
 0285. 🐛 fix: resolve issue with date parsing
 0061. ✨ feat: create admin dashboard
+0236. 🔧 refactor: remove redundant code blocks
