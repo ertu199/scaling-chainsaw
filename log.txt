@@ -403,3 +403,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0713. 🐛 fix: handle 500 error in quiz API
 0761. ✅ test: add unit test for quiz service
+0461. ✨ feat: add user authentication
