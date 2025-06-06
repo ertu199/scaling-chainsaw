@@ -407,3 +407,4 @@
 0312. ✨ feat: add user authentication
 0016. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
+0208. 🔧 refactor: clean up auth middleware
