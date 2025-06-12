@@ -414,3 +414,4 @@
 0555. ✨ feat: create admin dashboard
 0554. 📚 docs: improve code comments in utils
 0697. ♻️ chore: bump dependencies
+0066. 🔧 refactor: clean up auth middleware
