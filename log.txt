@@ -417,3 +417,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0240. 🔧 refactor: remove redundant code blocks
 0241. 📚 docs: add API usage examples
+0838. 🎨 style: standardize quote style
