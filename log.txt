@@ -419,3 +419,4 @@
 0241. 📚 docs: add API usage examples
 0838. 🎨 style: standardize quote style
 0567. 📚 docs: add API usage examples
+0989. 📚 docs: write FAQ section
