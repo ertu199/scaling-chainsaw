@@ -421,3 +421,4 @@
 0567. 📚 docs: add API usage examples
 0989. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
+0854. ♻️ chore: rename env.example
