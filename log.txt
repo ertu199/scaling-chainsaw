@@ -430,3 +430,4 @@
 0189. 📚 docs: clarify environment setup
 0023. 📚 docs: clarify environment setup
 0270. ♻️ chore: rename env.example
+0147. ♻️ chore: bump dependencies
