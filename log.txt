@@ -433,3 +433,4 @@
 0147. ♻️ chore: bump dependencies
 0709. ♻️ chore: bump dependencies
 0640. ♻️ chore: bump dependencies
+0254. 🚀 perf: reduce image load time
