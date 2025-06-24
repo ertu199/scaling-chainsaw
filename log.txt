@@ -432,3 +432,4 @@
 0270. ♻️ chore: rename env.example
 0147. ♻️ chore: bump dependencies
 0709. ♻️ chore: bump dependencies
+0640. ♻️ chore: bump dependencies
