@@ -436,3 +436,4 @@
 0254. 🚀 perf: reduce image load time
 0104. 🎨 style: apply consistent indentation
 0608. 🔧 refactor: remove redundant code blocks
+0316. 🐛 fix: fix broken CSS in mobile view
