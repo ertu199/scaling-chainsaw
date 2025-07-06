@@ -448,3 +448,4 @@
 0518. ✨ feat: support email verification
 0681. ✨ feat: create admin dashboard
 0144. ✅ test: increase coverage on auth module
+0592. 📚 docs: add API usage examples
