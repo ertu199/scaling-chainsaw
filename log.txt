@@ -449,3 +449,4 @@
 0681. ✨ feat: create admin dashboard
 0144. ✅ test: increase coverage on auth module
 0592. 📚 docs: add API usage examples
+0545. 🎨 style: standardize quote style
