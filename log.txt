@@ -459,3 +459,4 @@
 0398. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
 0433. 🐛 fix: prevent crash on empty input
+0820. 📚 docs: add API usage examples
