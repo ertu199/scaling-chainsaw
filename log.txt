@@ -463,3 +463,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0792. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0338. ♻️ chore: add GitHub actions badge
