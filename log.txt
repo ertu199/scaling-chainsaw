@@ -462,3 +462,4 @@
 0820. 📚 docs: add API usage examples
 0296. 🔧 refactor: organize models into subfolders
 0792. 🎨 style: standardize quote style
+0194. 🎨 style: standardize quote style
