@@ -465,3 +465,4 @@
 0194. 🎨 style: standardize quote style
 0338. ♻️ chore: add GitHub actions badge
 0862. ♻️ chore: bump dependencies
+0839. 🎨 style: apply consistent indentation
