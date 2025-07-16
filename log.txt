@@ -468,3 +468,4 @@
 0839. 🎨 style: apply consistent indentation
 0413. ✅ test: add integration test for /submit endpoint
 0527. 🎨 style: remove trailing whitespace
+0439. 🐛 fix: correct typo in registration form
