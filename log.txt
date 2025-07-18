@@ -479,3 +479,4 @@
 0574. ✨ feat: enable dark mode toggle
 0273. 🚀 perf: reduce image load time
 0103. 🔧 refactor: remove redundant code blocks
+0756. ✨ feat: support email verification
