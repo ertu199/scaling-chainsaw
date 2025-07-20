@@ -482,3 +482,4 @@
 0756. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
 0453. 🎨 style: standardize quote style
+0546. 🐛 fix: fix null pointer exception on login
