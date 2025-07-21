@@ -485,3 +485,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0366. 🔧 refactor: remove redundant code blocks
 0915. 🚀 perf: cache repeated calculations
+0988. 🐛 fix: fix broken CSS in mobile view
