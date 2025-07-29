@@ -497,3 +497,4 @@
 0981. 🚀 perf: lazy-load components
 0731. 🎨 style: standardize quote style
 0769. ✨ feat: create admin dashboard
+0287. 📚 docs: write FAQ section
