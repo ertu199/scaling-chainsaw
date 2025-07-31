@@ -499,3 +499,4 @@
 0769. ✨ feat: create admin dashboard
 0287. 📚 docs: write FAQ section
 0878. 🔧 refactor: split large controller into smaller functions
+0519. 📚 docs: document token refresh logic
