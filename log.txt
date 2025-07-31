@@ -500,3 +500,4 @@
 0287. 📚 docs: write FAQ section
 0878. 🔧 refactor: split large controller into smaller functions
 0519. 📚 docs: document token refresh logic
+0851. ✅ test: mock database connection in test suite
