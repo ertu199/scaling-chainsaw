@@ -502,3 +502,4 @@
 0519. 📚 docs: document token refresh logic
 0851. ✅ test: mock database connection in test suite
 0427. ✅ test: mock database connection in test suite
+0345. 📚 docs: document token refresh logic
