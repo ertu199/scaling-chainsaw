@@ -509,3 +509,4 @@
 0349. ✅ test: increase coverage on auth module
 0097. 🐛 fix: handle 500 error in quiz API
 0891. ✨ feat: create admin dashboard
+0975. 🎨 style: apply consistent indentation
