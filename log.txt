@@ -513,3 +513,4 @@
 0846. ✨ feat: implement quiz timer feature
 0722. 📚 docs: add API usage examples
 0753. 🔧 refactor: remove redundant code blocks
+0727. ♻️ chore: add GitHub actions badge
