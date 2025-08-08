@@ -521,3 +521,4 @@
 0695. ✨ feat: create admin dashboard
 0543. ✨ feat: support email verification
 0513. ♻️ chore: bump dependencies
+0817. 🔧 refactor: remove redundant code blocks
