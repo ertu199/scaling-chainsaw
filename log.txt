@@ -519,3 +519,4 @@
 0452. ✨ feat: implement quiz timer feature
 0973. 🔧 refactor: organize models into subfolders
 0695. ✨ feat: create admin dashboard
+0543. ✨ feat: support email verification
