@@ -523,3 +523,4 @@
 0513. ♻️ chore: bump dependencies
 0817. 🔧 refactor: remove redundant code blocks
 0414. 🔧 refactor: remove redundant code blocks
+0924. ✅ test: mock database connection in test suite
