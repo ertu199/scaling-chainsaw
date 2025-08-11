@@ -529,3 +529,4 @@
 0494. 🎨 style: rename variables for clarity
 0802. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
+0871. ✅ test: add integration test for /submit endpoint
