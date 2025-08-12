@@ -533,3 +533,4 @@
 0627. 📚 docs: document token refresh logic
 0754. 🐛 fix: handle 500 error in quiz API
 0163. ✨ feat: implement quiz timer feature
+0207. 🐛 fix: prevent crash on empty input
