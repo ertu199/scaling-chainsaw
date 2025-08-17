@@ -543,3 +543,4 @@
 0115. 🚀 perf: reduce image load time
 0330. ✅ test: test user registration edge cases
 0765. ♻️ chore: clean up unused files
+0630. 🚀 perf: lazy-load components
