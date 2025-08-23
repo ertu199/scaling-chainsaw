@@ -555,3 +555,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0424. ✨ feat: add user authentication
 0694. 🎨 style: rename variables for clarity
+0396. 🔧 refactor: split large controller into smaller functions
