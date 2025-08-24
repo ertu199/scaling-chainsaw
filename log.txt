@@ -558,3 +558,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0264. 🚀 perf: optimize database query for quiz results
 0389. 📚 docs: improve code comments in utils
+0505. ♻️ chore: add GitHub actions badge
