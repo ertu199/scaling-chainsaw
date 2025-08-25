@@ -561,3 +561,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
 0492. 🎨 style: remove trailing whitespace
+0528. ♻️ chore: clean up unused files
