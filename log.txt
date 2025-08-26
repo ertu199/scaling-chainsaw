@@ -562,3 +562,4 @@
 0019. ✨ feat: enable dark mode toggle
 0492. 🎨 style: remove trailing whitespace
 0528. ♻️ chore: clean up unused files
+0939. 📚 docs: update README with setup steps
