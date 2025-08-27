@@ -565,3 +565,4 @@
 0939. 📚 docs: update README with setup steps
 0083. 🎨 style: reformat files with black
 0974. ✨ feat: add export to CSV option
+0013. ✅ test: increase coverage on auth module
