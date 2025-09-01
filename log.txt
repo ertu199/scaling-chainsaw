@@ -581,3 +581,4 @@
 0269. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
 0379. ✨ feat: support email verification
+0884. 📚 docs: clarify environment setup
