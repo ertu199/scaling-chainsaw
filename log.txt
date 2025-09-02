@@ -583,3 +583,4 @@
 0379. ✨ feat: support email verification
 0884. 📚 docs: clarify environment setup
 0425. 🔧 refactor: refactor quiz grading logic
+0053. ✅ test: increase coverage on auth module
