@@ -584,3 +584,4 @@
 0884. 📚 docs: clarify environment setup
 0425. 🔧 refactor: refactor quiz grading logic
 0053. ✅ test: increase coverage on auth module
+0540. ♻️ chore: add GitHub actions badge
