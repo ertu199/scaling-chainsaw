@@ -592,3 +592,4 @@
 0302. ✨ feat: implement quiz timer feature
 0052. 🎨 style: standardize quote style
 0869. ♻️ chore: bump dependencies
+0062. ♻️ chore: update .gitignore
