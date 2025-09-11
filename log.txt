@@ -601,3 +601,4 @@
 0664. ✅ test: add unit test for quiz service
 0661. ✅ test: add integration test for /submit endpoint
 0071. 🔧 refactor: refactor quiz grading logic
+0156. 🎨 style: rename variables for clarity
