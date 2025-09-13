@@ -608,3 +608,4 @@
 0353. ♻️ chore: rename env.example
 0354. 📚 docs: add API usage examples
 0559. 🔧 refactor: split large controller into smaller functions
+0493. ✨ feat: add user authentication
