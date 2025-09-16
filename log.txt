@@ -615,3 +615,4 @@
 0407. 🚀 perf: cache repeated calculations
 0117. ✅ test: increase coverage on auth module
 0130. 🔧 refactor: split large controller into smaller functions
+0779. 🔧 refactor: organize models into subfolders
