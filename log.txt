@@ -645,3 +645,4 @@
 0504. 📚 docs: document token refresh logic
 0289. 🐛 fix: resolve issue with date parsing
 0512. 🚀 perf: reduce image load time
+0748. 🚀 perf: optimize database query for quiz results
