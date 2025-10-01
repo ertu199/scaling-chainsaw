@@ -646,3 +646,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0512. 🚀 perf: reduce image load time
 0748. 🚀 perf: optimize database query for quiz results
+0222. 🐛 fix: handle 500 error in quiz API
