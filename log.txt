@@ -660,3 +660,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0781. 🚀 perf: reduce image load time
 0970. ♻️ chore: update .gitignore
+0443. 🎨 style: standardize quote style
