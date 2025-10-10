@@ -662,3 +662,4 @@
 0970. ♻️ chore: update .gitignore
 0443. 🎨 style: standardize quote style
 0183. 🔧 refactor: split large controller into smaller functions
+0823. ✨ feat: add user authentication
