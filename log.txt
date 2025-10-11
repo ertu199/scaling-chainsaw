@@ -666,3 +666,4 @@
 0005. ✅ test: add unit test for quiz service
 0455. ♻️ chore: clean up unused files
 0265. 🎨 style: reformat files with black
+0803. ✅ test: mock database connection in test suite
