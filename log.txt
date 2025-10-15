@@ -672,3 +672,4 @@
 0892. ✅ test: add unit test for quiz service
 0267. 📚 docs: improve code comments in utils
 0943. 🎨 style: rename variables for clarity
+0120. ✅ test: add integration test for /submit endpoint
