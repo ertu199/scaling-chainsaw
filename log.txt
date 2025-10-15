@@ -669,3 +669,4 @@
 0803. ✅ test: mock database connection in test suite
 0227. ✅ test: test user registration edge cases
 0576. ♻️ chore: update .gitignore
+0892. ✅ test: add unit test for quiz service
