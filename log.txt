@@ -683,3 +683,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0610. 🚀 perf: lazy-load components
 0683. ✅ test: mock database connection in test suite
+0522. 🐛 fix: handle 500 error in quiz API
