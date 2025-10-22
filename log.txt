@@ -690,3 +690,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0875. ✅ test: increase coverage on auth module
 0629. 🔧 refactor: organize models into subfolders
+0078. ♻️ chore: update .gitignore
