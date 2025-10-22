@@ -689,3 +689,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0813. 🔧 refactor: organize models into subfolders
 0875. ✅ test: increase coverage on auth module
+0629. 🔧 refactor: organize models into subfolders
