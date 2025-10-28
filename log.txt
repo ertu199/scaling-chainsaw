@@ -700,3 +700,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0768. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
+0968. 🎨 style: standardize quote style
