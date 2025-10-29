@@ -704,3 +704,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0109. 🚀 perf: lazy-load components
 0391. 🐛 fix: fix null pointer exception on login
+0408. ♻️ chore: add GitHub actions badge
