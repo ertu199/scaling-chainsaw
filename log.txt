@@ -716,3 +716,4 @@
 0044. ✅ test: add unit test for quiz service
 0259. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
+0268. 🐛 fix: prevent crash on empty input
