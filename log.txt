@@ -717,3 +717,4 @@
 0259. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
+0106. 🎨 style: reformat files with black
