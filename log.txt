@@ -733,3 +733,4 @@
 0448. 🐛 fix: correct typo in registration form
 0107. 🐛 fix: prevent crash on empty input
 0102. ✨ feat: support email verification
+0865. ♻️ chore: add GitHub actions badge
