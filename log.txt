@@ -735,3 +735,4 @@
 0102. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
 0164. 📚 docs: document token refresh logic
+0373. 📚 docs: document token refresh logic
