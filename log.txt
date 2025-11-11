@@ -740,3 +740,4 @@
 0151. ✅ test: add unit test for quiz service
 0898. 🐛 fix: fix broken CSS in mobile view
 0421. 🔧 refactor: split large controller into smaller functions
+0122. ✨ feat: support email verification
