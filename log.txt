@@ -741,3 +741,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0421. 🔧 refactor: split large controller into smaller functions
 0122. ✨ feat: support email verification
+0827. 🚀 perf: optimize database query for quiz results
