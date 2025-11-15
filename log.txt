@@ -745,3 +745,4 @@
 0847. ♻️ chore: clean up unused files
 0253. 📚 docs: update README with setup steps
 0931. 🚀 perf: reduce image load time
+0762. 🚀 perf: lazy-load components
