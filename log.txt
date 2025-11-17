@@ -746,3 +746,4 @@
 0253. 📚 docs: update README with setup steps
 0931. 🚀 perf: reduce image load time
 0762. 🚀 perf: lazy-load components
+0932. ✅ test: add integration test for /submit endpoint
