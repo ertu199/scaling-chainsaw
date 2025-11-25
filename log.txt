@@ -762,3 +762,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0523. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
+0603. 🐛 fix: fix broken CSS in mobile view
