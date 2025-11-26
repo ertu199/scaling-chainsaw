@@ -764,3 +764,4 @@
 0929. ✨ feat: support email verification
 0603. 🐛 fix: fix broken CSS in mobile view
 0327. 🔧 refactor: split large controller into smaller functions
+0784. ♻️ chore: clean up unused files
