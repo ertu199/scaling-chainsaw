@@ -776,3 +776,4 @@
 0042. 📚 docs: document token refresh logic
 0181. ♻️ chore: add GitHub actions badge
 0821. ✅ test: add integration test for /submit endpoint
+0361. ✨ feat: support email verification
