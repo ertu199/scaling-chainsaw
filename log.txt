@@ -775,3 +775,4 @@
 0486. ✨ feat: add export to CSV option
 0042. 📚 docs: document token refresh logic
 0181. ♻️ chore: add GitHub actions badge
+0821. ✅ test: add integration test for /submit endpoint
