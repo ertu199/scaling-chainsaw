@@ -784,3 +784,4 @@
 0469. 🚀 perf: lazy-load components
 0014. 🔧 refactor: remove redundant code blocks
 0428. 🐛 fix: fix null pointer exception on login
+0308. 🚀 perf: reduce image load time
