@@ -786,3 +786,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0308. 🚀 perf: reduce image load time
 0384. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
