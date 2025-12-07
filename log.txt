@@ -792,3 +792,4 @@
 0786. ✨ feat: enable dark mode toggle
 0293. ✅ test: add integration test for /submit endpoint
 0369. 🎨 style: standardize quote style
+0056. ♻️ chore: rename env.example
