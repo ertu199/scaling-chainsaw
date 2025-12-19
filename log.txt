@@ -805,3 +805,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0224. 🐛 fix: fix broken CSS in mobile view
 0059. ♻️ chore: bump dependencies
+0539. 🔧 refactor: organize models into subfolders
