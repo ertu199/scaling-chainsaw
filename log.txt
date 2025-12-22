@@ -811,3 +811,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0305. ✨ feat: enable dark mode toggle
 0712. 🎨 style: apply consistent indentation
+0002. 🚀 perf: cache repeated calculations
