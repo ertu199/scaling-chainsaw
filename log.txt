@@ -822,3 +822,4 @@
 0883. 📚 docs: improve code comments in utils
 0211. 🔧 refactor: remove redundant code blocks
 0033. 🎨 style: apply consistent indentation
+0897. 🐛 fix: prevent crash on empty input
