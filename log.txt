@@ -828,3 +828,4 @@
 0445. 📚 docs: improve code comments in utils
 0456. 🚀 perf: optimize database query for quiz results
 0185. 📚 docs: write FAQ section
+0885. ♻️ chore: update .gitignore
