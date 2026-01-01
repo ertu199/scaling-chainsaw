@@ -832,3 +832,4 @@
 0184. 📚 docs: improve code comments in utils
 0639. 🐛 fix: correct typo in registration form
 0451. ✨ feat: support email verification
+0547. 📚 docs: write FAQ section
