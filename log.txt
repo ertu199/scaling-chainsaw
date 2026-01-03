@@ -839,3 +839,4 @@
 0636. ✅ test: increase coverage on auth module
 0835. 🐛 fix: prevent crash on empty input
 0295. 🎨 style: remove trailing whitespace
+0096. 🐛 fix: prevent crash on empty input
