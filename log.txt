@@ -841,3 +841,4 @@
 0295. 🎨 style: remove trailing whitespace
 0096. 🐛 fix: prevent crash on empty input
 0182. 🔧 refactor: remove redundant code blocks
+0317. ✅ test: test user registration edge cases
