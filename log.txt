@@ -844,3 +844,4 @@
 0317. ✅ test: test user registration edge cases
 0237. 🎨 style: standardize quote style
 0667. ✨ feat: add export to CSV option
+0551. 📚 docs: write FAQ section
