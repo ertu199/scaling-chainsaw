@@ -853,3 +853,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0321. 🔧 refactor: organize models into subfolders
 0818. 🔧 refactor: remove redundant code blocks
+0783. 🐛 fix: handle 500 error in quiz API
