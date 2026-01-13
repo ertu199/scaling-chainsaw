@@ -857,3 +857,4 @@
 0843. 📚 docs: document token refresh logic
 0046. 🎨 style: rename variables for clarity
 0219. ✅ test: increase coverage on auth module
+0557. 🔧 refactor: clean up auth middleware
