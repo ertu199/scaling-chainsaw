@@ -863,3 +863,4 @@
 0563. 📚 docs: clarify environment setup
 0111. 📚 docs: update README with setup steps
 0616. 🚀 perf: lazy-load components
+0471. ✨ feat: support email verification
