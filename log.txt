@@ -867,3 +867,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0837. 🚀 perf: cache repeated calculations
 0893. 🐛 fix: handle 500 error in quiz API
+0359. 🔧 refactor: clean up auth middleware
