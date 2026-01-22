@@ -870,3 +870,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0905. ♻️ chore: bump dependencies
 0148. 🔧 refactor: organize models into subfolders
+0390. 🎨 style: standardize quote style
