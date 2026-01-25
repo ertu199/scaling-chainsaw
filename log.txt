@@ -875,3 +875,4 @@
 0145. 📚 docs: improve code comments in utils
 0462. ♻️ chore: update .gitignore
 0116. ✨ feat: support email verification
+0091. ✨ feat: add user authentication
