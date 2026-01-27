@@ -880,3 +880,4 @@
 0169. 📚 docs: add API usage examples
 0141. 📚 docs: document token refresh logic
 0799. ♻️ chore: clean up unused files
+0698. 🐛 fix: handle 500 error in quiz API
