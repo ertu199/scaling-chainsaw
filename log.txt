@@ -888,3 +888,4 @@
 0995. ✅ test: mock database connection in test suite
 0584. 🚀 perf: lazy-load components
 0738. 🐛 fix: prevent crash on empty input
+0573. ✅ test: add integration test for /submit endpoint
