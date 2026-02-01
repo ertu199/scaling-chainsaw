@@ -892,3 +892,4 @@
 0215. 🎨 style: reformat files with black
 0252. 🎨 style: remove trailing whitespace
 0204. 🎨 style: standardize quote style
+0133. 🐛 fix: fix null pointer exception on login
