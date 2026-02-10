@@ -911,3 +911,4 @@
 0050. ✨ feat: enable dark mode toggle
 0212. 🎨 style: standardize quote style
 0662. ♻️ chore: clean up unused files
+0281. ✨ feat: support email verification
