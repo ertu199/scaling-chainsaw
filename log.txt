@@ -916,3 +916,4 @@
 0651. ✨ feat: enable dark mode toggle
 0806. 📚 docs: improve code comments in utils
 0994. 🚀 perf: reduce image load time
+0419. 🎨 style: remove trailing whitespace
