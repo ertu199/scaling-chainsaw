@@ -915,3 +915,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0651. ✨ feat: enable dark mode toggle
 0806. 📚 docs: improve code comments in utils
+0994. 🚀 perf: reduce image load time
