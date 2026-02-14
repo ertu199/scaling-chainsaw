@@ -922,3 +922,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0921. 🐛 fix: correct typo in registration form
 0063. 🐛 fix: handle 500 error in quiz API
+0074. ♻️ chore: add GitHub actions badge
