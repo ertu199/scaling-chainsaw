@@ -926,3 +926,4 @@
 0684. 🚀 perf: reduce image load time
 0650. ✅ test: add unit test for quiz service
 0256. ✅ test: mock database connection in test suite
+0178. ✨ feat: support email verification
