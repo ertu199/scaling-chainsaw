@@ -935,3 +935,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0298. ♻️ chore: update .gitignore
 0288. 🔧 refactor: refactor quiz grading logic
+0663. 🚀 perf: reduce image load time
