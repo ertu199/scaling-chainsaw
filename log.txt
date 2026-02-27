@@ -942,3 +942,4 @@
 0300. ✨ feat: add export to CSV option
 0067. 🔧 refactor: remove redundant code blocks
 0356. 📚 docs: write FAQ section
+0275. 🎨 style: standardize quote style
