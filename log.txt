@@ -947,3 +947,4 @@
 0795. 📚 docs: update README with setup steps
 0561. 📚 docs: write FAQ section
 0365. 🚀 perf: reduce image load time
+0307. ✨ feat: support email verification
