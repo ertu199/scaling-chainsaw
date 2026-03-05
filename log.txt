@@ -952,3 +952,4 @@
 0292. 📚 docs: clarify environment setup
 0297. 🎨 style: remove trailing whitespace
 0653. 🐛 fix: prevent crash on empty input
+0173. 🚀 perf: cache repeated calculations
