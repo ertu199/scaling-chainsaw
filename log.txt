@@ -971,3 +971,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
 0622. 🎨 style: apply consistent indentation
+0277. 🎨 style: standardize quote style
