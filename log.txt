@@ -982,3 +982,4 @@
 0585. 🚀 perf: lazy-load components
 0388. 🎨 style: reformat files with black
 0824. 🚀 perf: lazy-load components
+0397. 🐛 fix: handle 500 error in quiz API
