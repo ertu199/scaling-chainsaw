@@ -983,3 +983,4 @@
 0388. 🎨 style: reformat files with black
 0824. 🚀 perf: lazy-load components
 0397. 🐛 fix: handle 500 error in quiz API
+0418. ✅ test: mock database connection in test suite
