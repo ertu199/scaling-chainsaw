@@ -981,3 +981,4 @@
 0351. ✨ feat: add export to CSV option
 0585. 🚀 perf: lazy-load components
 0388. 🎨 style: reformat files with black
+0824. 🚀 perf: lazy-load components
