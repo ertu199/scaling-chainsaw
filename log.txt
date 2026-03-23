@@ -989,3 +989,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0054. ♻️ chore: update .gitignore
 0228. 🔧 refactor: remove redundant code blocks
+0647. 🐛 fix: prevent crash on empty input
