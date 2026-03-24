@@ -992,3 +992,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0318. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0405. ✅ test: mock database connection in test suite
