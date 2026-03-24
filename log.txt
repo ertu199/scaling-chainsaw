@@ -991,3 +991,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0647. 🐛 fix: prevent crash on empty input
 0318. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
